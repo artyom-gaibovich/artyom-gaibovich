@@ -1,4 +1,6 @@
-## Hi there 👋
+
+## Hi, my name is Artyom, and i'm productive 🚀
+
 
 <!--
 **artyom-gaibovich/artyom-gaibovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
